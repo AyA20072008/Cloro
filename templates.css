@@ -1,0 +1,126 @@
+@charset "utf-8";
+.contenedor {
+    background-color: #e6cbc2;
+    height: 900px;
+    width: 100%;
+}
+#heather {
+    background-color: #dacdba;
+    height: 200px;
+    width: 100%;
+}
+#titulo {
+    background-color: #eac8d9;
+    float: left;
+    height: 200px;
+    width: 75%;
+}
+#sagrado {
+    background-color: #caa5c7;
+    float: right;
+    height: 200px;
+    width: 25%;
+    text-align: center;
+}
+#body {
+    background-color: #dacdba;
+    height: 900px;
+    width: 100%;
+    font-size: 30px;
+    color: #492506;
+}
+#foother {
+    background-color: #dacdba;
+    height: 100px;
+    width: 100%;
+}
+#quimica {
+    background-color: #CBEEBB;
+    float: left;
+    height: 900px;
+    width: 20%;
+}
+#informatica {
+    background-color: #b0c7d9;
+    float: right;
+    height: 900px;
+    width: 20%;
+    color: #492506;
+}
+#body #quimica .subtitulo {
+    font-size: x-large;
+    text-align: center;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    color: #044B1D;
+    font-style: italic;
+    font-weight: bolder;
+}
+
+
+#derechos {
+    background-color: #f5ab8f;
+    float: right;
+    height: 100px;
+    width: 75%;
+}
+#body #informatica .subtitulo {
+    color: #0A4B6F;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: x-large;
+    text-align: center;
+}
+
+#redes {
+    background-color: #ec845c;
+    float: left;
+    height: 100px;
+    width: 25%;
+}
+#body #informacion .sutitulo {
+    color: #492506;
+    font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+    font-style: italic;
+    font-weight: bolder;
+    font-size: xx-large;
+    text-align: center;
+}
+#heather #titulo .titulo {
+    color: #7C3597;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+#body #informacion .ssssss {
+    color: #492506;
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+}
+#informacion .Naprop {
+    color: #000000;
+    font-size: 17px;
+    height: 0px;
+}
+#heather #titulo .pag3 {
+    color: #7C3597;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    text-align: center;
+    font-size: 19px;
+}
+
+a:link{
+	text-decoration: none;
+	color:#562452;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+}
+#titulo .index {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    color: #7C3597;
+    font-size: 50px;
+}
+#titulo .pag2 {
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    color: #7C3597;
+    font-size: 35px;
+    text-align: center;
+}
